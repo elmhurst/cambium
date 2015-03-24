@@ -1,0 +1,14 @@
+{
+    "name": "elmhurst/cambium",
+    "description": "A fledgeling MVC on PHP",
+    "require": {
+        "symfony/class-loader": "~2.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Ogilvy",
+            "email": "tim.ogilvy@outlook.com"
+        }
+    ]
+}
