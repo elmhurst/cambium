@@ -2,7 +2,9 @@
     "name": "elmhurst/cambium",
     "description": "A fledgeling MVC on PHP",
     "require": {
-        "symfony/class-loader": "~2.6"
+        "symfony/class-loader": "~2.6",
+        "doctrine/orm": "~2.4",
+        "monolog/monolog": "~1.13"
     },
     "license": "MIT",
     "authors": [
